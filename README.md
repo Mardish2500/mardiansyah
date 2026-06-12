@@ -62,7 +62,9 @@ Outside of coding, I spend my time playing games such as **Wuthering Waves**, **
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" />&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" />&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" />
-
+<p align="center">
+  <img src="marin-kitagawa.gif" width="500">
+</p>
 </p>
 
 <h3 align="center">Frontend</h3>
