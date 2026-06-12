@@ -1,98 +1,115 @@
-# Hi, I'm Mardiansyah 👋
-
-![Profile Views](https://komarev.com/ghpvc/?username=Mardish2500\&label=Profile%20Views\&color=blueviolet\&style=for-the-badge)
-
-🎓 Second-Year Informatics Engineering Student
-🌱 IoT Enthusiast & Smart Farming Developer
-💻 Web Developer | Arduino Maker | Problem Solver
-
----
-
-## 🚀 About Me
-
-I'm a second-year Informatics Engineering student with a strong interest in **Internet of Things (IoT)**, **Web Development**, and **Smart Farming Technology**.
-
-I enjoy building innovative solutions that combine hardware and software, particularly in hydroponic monitoring systems, automation projects, and IoT-based applications. My goal is to continuously improve my technical skills while creating technology that provides real-world benefits.
-
-Beyond technology, I enjoy gaming, chess, and exploring new ideas that challenge my creativity and strategic thinking.
-
----
-
-## 💻 Tech Stack
-
-### Programming Languages
-
-* HTML
-* CSS
-* JavaScript
-* PHP
-
-### Frameworks & Tools
-
-* Laravel
-* MySQL
-* Arduino IDE
-* Git & GitHub
-
-### Interests
-
-* Internet of Things (IoT)
-* Smart Farming
-* Web Development
-* Database Design
-
----
-
-## 📊 GitHub Statistics
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mardish2500\&show_icons=true\&theme=github_dark)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Mardish2500\&theme=github-dark-blue)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mardish2500\&layout=compact\&theme=github_dark)
-
----
-
-## 🏆 GitHub Trophies
-
-## 🌱 Featured Projects
-
-### Smart Farming Hydroponic System
-
-IoT-based monitoring and automation system for hydroponic cultivation using sensors, Arduino, and web technologies.
-
-### Web Development Projects
-
-Various academic and personal projects built using Laravel, PHP, MySQL, HTML, CSS, and JavaScript.
-
----
-
-## 🎮 Gaming Corner
-
-Favorite Games:
-
-* 🌊 Wuthering Waves
-* 🌟 Genshin Impact
-* 🚂 Honkai: Star Rail
-* 🎯 Valorant
-* ⛏️ Minecraft
-
-Gaming helps me improve teamwork, strategic thinking, adaptability, and problem-solving skills.
-
----
+<h1 align="center">Hey <img src="https://raw.githubusercontent.com/sindresorhus/sindresorhus/refs/heads/main/cat-typing.gif" height="30px" width="30px"> I'm MARDIANSYAH</h1>
+<h3 align="center">second-Year Informatics Engineering Student</h3>
 
 <p align="center">
-  <img src="marin-kitagawa.gif" width="400">
+  <a href="https://komarev.com/ghpvc/?username=Mardish2500">
+    <img src="https://komarev.com/ghpvc/?username=Mardish2500&label=Profile%20views&color=00FFFF&style=flat-square" alt="Mardish2500's profile views" />
+  </a>
 </p>
 
-**Favorite Character:** Marin Kitagawa
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Banner" width="100%" />
 
-## 📫 Connect With Me
+## 🧠 My Focus Areas
+- Internet of Things (IoT)
+- Smart Farming
+- Hydroponic Systems
+- Web Development
+- Laravel Development
+- PHP Programming
+- Arduino Projects
+- Database Design
+- MySQL
+- Full Stack Development
+- Open Source Learning
+- Technology Innovation
 
-📧 Email: [mardiansyah2055@gmail.com](mailto:mardiansyah2055@gmail.com)
 
----
+## 📊 GitHub Stats & Trophies
+<p align="center">
+  <a href="https://github.com/Mardish2500">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Mardish2500&cache_seconds=7200&layout=compact&theme=tokyonight&border_radius=10" alt="Mardish2500's GitHub Stats" />
+  </a>
+  <img src="https://streak-stats.demolab.com/?user=Mardish2500&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="Mardish2500's GitHub Streak" width="49%" />
+</p>
+<p align="center">
+  <img src="https://trophy.ryglcloud.net/?username=Mardish2500&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="MARDIANSYAH's GitHub Trophies" />
+</p>
+<p align="center">
+  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=Mardish2500&theme=tokyonight&radius=10" alt="Mardish2500's Activity Graph" />
+</p>
 
-> "Technology is not just about creating solutions, but also about creating opportunities for a better future."
-## 🐍 Contribution Snake 
-![Snake animation](https://raw.githubusercontent.com/Mardish2500/Mardish2500/output/github-contribution-grid-snake.svg)
+
+## 🛠️ Languages & Tools
+
+<h3 align="center">Programming Languages</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" />&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" />&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" />&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" />&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" />&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" />&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" />
+
+</p>
+
+<h3 align="center">Frontend</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" />&nbsp;&nbsp;
+  <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Next.js" width="40" />&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" />&nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" />
+
+</p>
+
+<h3 align="center">Database</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" />
+
+</p>
+
+<h3 align="center">DevOps & Cloud</h3>
+<p align="center">
+  <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="Google Cloud" width="40" />
+
+</p>
+
+<h3 align="center">Tools</h3>
+<p align="center">
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" />&nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VS Code" width="40" />&nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" />
+
+</p>
+
+<p align="center">
+  <a href="https://github.com/Mardish2500">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Mardish2500&langs_count=8&layout=compact&theme=tokyonight&border_radius=10" alt="Top Languages" />
+  </a>
+</p>
+
+## 🔗 Connect with Me
+<p align="center">
+  <a href="http://www.youtube.com/@mardish-pama%C3%A9n14th">
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Youtube.svg" alt="YouTube" width="40" />
+  </a>&nbsp;&nbsp;
+  <a href="mailto:mardiansyah2055@gmail.com">
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Gmail.svg" alt="Gmail" width="40" />
+  </a>
+</p>
+
+## 💬 Quote
+> "Born too late to explore the world, born too early to explore the galaxy, born just in time to play Wuthering Waves."
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cyprieng/github-breakout/main/example/dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/cyprieng/github-breakout/main/example/light.svg" />
+  <img alt="Breakout Game" src="https://raw.githubusercontent.com/cyprieng/github-breakout/main/example/light.svg" />
+</picture>
+
+<p align="center"><a href="https://www.buymeacoffee.com/chamidudili" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a></p>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" alt="Bottom Line" width="100%" />
+</div>
+
