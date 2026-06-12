@@ -55,8 +55,11 @@ Beyond technology, I enjoy gaming, chess, and exploring new ideas that challenge
 
 ## 🏆 GitHub Trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Mardish2500\&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+# Test
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mardish2500&show_icons=true&theme=github_dark)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Mardish2500&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 ---
 
 ## 🌱 Featured Projects
