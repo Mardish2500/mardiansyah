@@ -81,10 +81,8 @@ Gaming helps me improve teamwork, strategic thinking, adaptability, and problem-
 
 ---
 
-## 🌸 Anime Corner
-
 <p align="center">
-  <img src="assets/marin-kitagawa.gif" width="400">
+  <img src="marin-kitagawa.gif" width="400">
 </p>
 
 **Favorite Character:** Marin Kitagawa
