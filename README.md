@@ -55,13 +55,6 @@ Beyond technology, I enjoy gaming, chess, and exploring new ideas that challenge
 
 ## 🏆 GitHub Trophies
 
-# Test
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mardish2500&show_icons=true&theme=github_dark)
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Mardish2500&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
----
-
 ## 🌱 Featured Projects
 
 ### Smart Farming Hydroponic System
@@ -88,19 +81,14 @@ Gaming helps me improve teamwork, strategic thinking, adaptability, and problem-
 
 ---
 
-## ♟️ Chess Corner
+## 🌸 Anime Corner
 
-Chess is one of my favorite hobbies because it trains logical thinking and decision-making abilities.
+<p align="center">
+  <img src="assets/marin-kitagawa.gif" width="400">
+</p>
 
-### Current Goals
+**Favorite Character:** Marin Kitagawa
 
-* Reach 1500+ Rating
-* Improve Tactical Vision
-* Master Queen's Gambit
-* Learn Sicilian Defense
-
-### 🔗 Chess Profile
-- Chess.com: https://www.chess.com/member/Mardish2500
 ## 📫 Connect With Me
 
 📧 Email: [mardiansyah2055@gmail.com](mailto:mardiansyah2055@gmail.com)
@@ -108,6 +96,5 @@ Chess is one of my favorite hobbies because it trains logical thinking and decis
 ---
 
 > "Technology is not just about creating solutions, but also about creating opportunities for a better future."
-## 🐍 Contribution Snake
-
+## 🐍 Contribution Snake 
 ![Snake animation](https://raw.githubusercontent.com/Mardish2500/Mardish2500/output/github-contribution-grid-snake.svg)
