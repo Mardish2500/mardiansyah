@@ -8,6 +8,18 @@
 </p>
 
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Banner" width="100%" />
+## 🚀 About Me
+
+Hello! I'm **Mardiansyah**, a second-year Informatics Engineering student who is passionate about technology, especially **Internet of Things (IoT)**, **Web Development**, and **Smart Farming Systems**.
+
+I enjoy creating projects that combine hardware and software to solve real-world problems. Currently, I'm learning Laravel, PHP, MySQL, Arduino, and IoT technologies while continuously improving my programming and problem-solving skills.
+
+Outside of coding, I spend my time playing games such as **Wuthering Waves**, **Genshin Impact**, and **Valorant**, watching anime, and exploring new technologies. I believe that every project, challenge, and bug is an opportunity to learn something new and level up my skills.
+
+⚡ Future IoT Developer
+🌱 Smart Farming Enthusiast
+🎮 Wuthering Waves Enjoyer
+💻 Lifelong Learner
 
 ## 🧠 My Focus Areas
 - Internet of Things (IoT)
