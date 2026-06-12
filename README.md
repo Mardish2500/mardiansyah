@@ -107,4 +107,4 @@ Chess is one of my favorite hobbies because it trains logical thinking and decis
 > "Technology is not just about creating solutions, but also about creating opportunities for a better future."
 ## 🐍 Contribution Snake
 
-![Snake animation](https://github.com/Mardish2500/Mardish2500/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/Mardish2500/Mardish2500/output/github-contribution-grid-snake.svg)
